@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>devops</artifactId>
+	<artifactId>devops-proj</artifactId>
 	<version>1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>devops</name>
+	<name>devopsproj</name>
 	<description>DevOps Project</description>
 
 	<parent>
